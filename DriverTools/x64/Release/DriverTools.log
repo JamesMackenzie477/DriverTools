@@ -1,0 +1,12 @@
+﻿  DriverTools.cpp
+DriverTools.cpp(3065): warning C4018: '<': signed/unsigned mismatch
+DriverTools.cpp(3336): warning C4018: '<': signed/unsigned mismatch
+DriverTools.cpp(3339): warning C4302: 'type cast': truncation from 'HANDLE' to 'USHORT'
+     Creating library D:\Projects\C++\DriverTools\x64\Release\DriverTools.lib and object D:\Projects\C++\DriverTools\x64\Release\DriverTools.exp
+  Generating code
+  0 of 14 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DriverTools.vcxproj -> D:\Projects\C++\DriverTools\x64\Release\DriverTools.dll
+  DriverTools.vcxproj -> D:\Projects\C++\DriverTools\x64\Release\DriverTools.pdb (Full PDB)
